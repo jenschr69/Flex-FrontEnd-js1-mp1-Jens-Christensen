@@ -1,0 +1,14 @@
+.row-bg-color {
+    background-color: none;
+}
+
+/* Defining the background colors for the columns */
+.bg-color-purple {
+    background-color: purple;
+}
+.bg-color-white {
+    background-color: white;
+}
+.bg-color-black {
+    background-color: black;
+}
