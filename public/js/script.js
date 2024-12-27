@@ -1,5 +1,9 @@
 // Start with adding h1-tag with id to the dom
-// HTML and text to be added: <h1>Flex-FrontEnd-js1-mp1-JensChristensen</h1>
+// Then add the text: Flex-FrontEnd-js1-mp1-JensChristensen
+
+document.getElementById("main").innerHTML = 
+<h1>Flex-FrontEnd-js1-mp1-JensChristensen</h1> + innerHTML;
+
 
 // Add 5 rows using div tags
 // In each row the text "Rad" + row number should be added
