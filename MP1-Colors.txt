@@ -1,0 +1,43 @@
+Rad 1
+Hex: B6FBB6
+
+H: 120
+S: 27
+V: 98
+
+Rad 2
+Hex: B6FBCD
+
+H: 140
+S: 27
+V: 98
+
+Rad 3
+Hex: B6FBE4
+
+H: 160
+S: 27
+V: 98
+
+Rad 4
+Hex: B6FBFB
+
+H: 180
+S: 27
+V: 98
+
+Rad 5
+Hex: B7E1F7
+
+H: 200
+S: 25
+V: 96
+
+https://en.wikipedia.org/wiki/HSL_and_HSV
+
+Columns
+Colors:
+Purpule: Hex: A8A8F0
+Black: Hex: 000000
+White: Hex: FFFFFF
+
